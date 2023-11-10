@@ -1,0 +1,6 @@
+---
+# The following max_equality_values is the maximum number
+# of different values that will be coded in the validator classmethods
+# for each attribute.  For a number greater than this, will need
+# to implement validation rules that use regular expressions instead.
+max_equality_values: 20
